@@ -1,0 +1,70 @@
+<svg height="1070" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1070" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">11 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ pdfjs@2.0.0-alpha.1 </tspan>
+<tspan x="10" y="90">  ├─┬ linebreak@0.3.0 </tspan>
+<tspan x="10" y="106">  │ ├── base64-js@0.0.8 </tspan>
+<tspan x="10" y="122">  │ ├─┬ brfs@1.4.3 </tspan>
+<tspan x="10" y="138">  │ │ ├─┬ quote-stream@1.0.2 </tspan>
+<tspan x="10" y="154">  │ │ │ ├── buffer-equal@0.0.1 </tspan>
+<tspan x="10" y="170">  │ │ │ └── minimist@1.2.0 </tspan>
+<tspan x="10" y="186">  │ │ ├─┬ resolve@1.3.3 </tspan>
+<tspan x="10" y="202">  │ │ │ └── path-parse@1.0.5 </tspan>
+<tspan x="10" y="218">  │ │ ├─┬ static-module@1.3.1 </tspan>
+<tspan x="10" y="234">  │ │ │ ├─┬ concat-stream@1.4.10 </tspan>
+<tspan x="10" y="250">  │ │ │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="266">  │ │ │ │ ├─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="282">  │ │ │ │ │ ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="298">  │ │ │ │ │ └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="314">  │ │ │ │ └── typedarray@0.0.6 </tspan>
+<tspan x="10" y="330">  │ │ │ ├─┬ duplexer2@0.0.2 </tspan>
+<tspan x="10" y="346">  │ │ │ │ └─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="362">  │ │ │ │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="378">  │ │ │ │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="394">  │ │ │ ├─┬ escodegen@1.3.3 </tspan>
+<tspan x="10" y="410">  │ │ │ │ ├── esprima@1.1.1 </tspan>
+<tspan x="10" y="426">  │ │ │ │ ├── estraverse@1.5.1 </tspan>
+<tspan x="10" y="442">  │ │ │ │ ├── esutils@1.0.0 </tspan>
+<tspan x="10" y="458">  │ │ │ │ └─┬ source-map@0.1.43 </tspan>
+<tspan x="10" y="474">  │ │ │ │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="490">  │ │ │ ├─┬ falafel@1.2.0 </tspan>
+<tspan x="10" y="506">  │ │ │ │ ├── acorn@1.2.2 </tspan>
+<tspan x="10" y="522">  │ │ │ │ ├── foreach@2.0.5 </tspan>
+<tspan x="10" y="538">  │ │ │ │ ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="554">  │ │ │ │ └── object-keys@1.0.11 </tspan>
+<tspan x="10" y="570">  │ │ │ ├─┬ has@1.0.1 </tspan>
+<tspan x="10" y="586">  │ │ │ │ └── function-bind@1.1.0 </tspan>
+<tspan x="10" y="602">  │ │ │ ├── object-inspect@0.4.0 </tspan>
+<tspan x="10" y="618">  │ │ │ ├─┬ quote-stream@0.0.0 </tspan>
+<tspan x="10" y="634">  │ │ │ │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="650">  │ │ │ ├─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="666">  │ │ │ │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="682">  │ │ │ │ ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="698">  │ │ │ │ └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="714">  │ │ │ ├── shallow-copy@0.0.1 </tspan>
+<tspan x="10" y="730">  │ │ │ ├─┬ static-eval@0.2.4 </tspan>
+<tspan x="10" y="746">  │ │ │ │ └─┬ escodegen@0.0.28 </tspan>
+<tspan x="10" y="762">  │ │ │ │   ├── esprima@1.0.4 </tspan>
+<tspan x="10" y="778">  │ │ │ │   └── estraverse@1.3.2 </tspan>
+<tspan x="10" y="794">  │ │ │ └─┬ through2@0.4.2 </tspan>
+<tspan x="10" y="810">  │ │ │   └─┬ xtend@2.1.2 </tspan>
+<tspan x="10" y="826">  │ │ │     └── object-keys@0.4.0 </tspan>
+<tspan x="10" y="842">  │ │ └─┬ through2@2.0.3 </tspan>
+<tspan x="10" y="858">  │ │   ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="874">  │ │   │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="890">  │ │   │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="906">  │ │   │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="922">  │ │   │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="938">  │ │   │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="954">  │ │   └── xtend@4.0.1 </tspan>
+<tspan x="10" y="970">  │ └─┬ unicode-trie@0.3.1 </tspan>
+<tspan x="10" y="986">  │   └── pako@0.2.9 </tspan>
+<tspan x="10" y="1002">  ├─┬ opentype.js@0.6.9 </tspan>
+<tspan x="10" y="1018">  │ └── tiny-inflate@1.0.2 </tspan>
+<tspan x="10" y="1034">  ├── unorm@1.4.1 </tspan>
+<tspan x="10" y="1050">  └── uuid@3.0.1</tspan>
+</text>
+</svg>
